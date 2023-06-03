@@ -20,7 +20,7 @@ ogImage:
   createdAt: 1648739041550
   ID: "6139df3d-35ff-4d1b-8f68-545c3df622f2"
   url: "public/assets/1648739038350_cover.jpg"
-updatedAt: 1685808980514
+updatedAt: 1685808994607
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
